@@ -4,7 +4,7 @@ This repository has primarily 2 files, one containes the formatted json code whi
 Steps Node Red
 
 Step 1: Download and set up Node-Red on your system
-Step 2: Click on three lines in yhe top right corner and click on Import
+Step 2: Click on three lines int he top right corner and click on Import
 Step 3: Copy the json code form the given file into the section or directly import this json file after downloading it
-Step 4: Change the paths wherever required e.g. (In the Python Node to locate python file, the pyhton file should be saved in the node-red folder in C drive in users. Chnage path for the databse node,etc)
+Step 4: Change the paths wherever required e.g. (In the Python Node to locate python file, the python file should be saved in the node-red folder in C drive in users. Chnage path for the database node,etc)
 Step 5: Deploy the Flow
